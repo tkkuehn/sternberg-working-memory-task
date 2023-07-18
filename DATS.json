@@ -1,0 +1,358 @@
+{
+  "title": "Sternberg Working Memory",
+  "description": "Sternberg working memory tasks including two memory loads and a delay suitable for fMRI & EEG or offline administration.",
+  "identifier": {
+    "identifier": "https://doi.org/10.17605/OSF.IO/6CTSJ",
+    "identifierSource": "DOI"
+  },
+  "creators": [
+    {
+      "abbreviation": "",
+      "fullName": "",
+      "firstName": "Todd",
+      "middleInitial": "S",
+      "lastName": "Woodward",
+      "email": "toddswoodward@gmail.com",
+      "affiliations": [
+        {
+          "name": "University of British Columbia"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Principal Investigator"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0001-8083-0079"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fullName": "Jennifer C. Whitman",
+      "firstName": "Jennifer",
+      "middleInitial": "C",
+      "lastName": "Whitman",
+      "affiliations": [
+        {
+          "name": "University of British Columbia"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Contributor"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0002-6101-6802"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fullName": "Nicole Sanford",
+      "middleInitial": "",
+      "lastName": "Sanford",
+      "firstName": "Nicole",
+      "affiliations": [
+        {
+          "name": "University of British Columbia"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Contributor"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0002-4915-2537"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "CSV"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "GNU GPL 3.0"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        ""
+      ],
+      "size": 2.4,
+      "unit": {
+        "value": "MB"
+      },
+      "access": {
+        "landingPage": "https://osf.io/6ctsj/",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Task-merging for finer separation of functional brain networks in working memory",
+      "publicationVenue": "Cortex",
+      "authors": [
+        {
+          "fullName": "Nicole Sanford",
+          "firstName": "Nicole",
+          "middleInitial": "",
+          "lastName": "Sanford",
+          "affiliations": [
+            {
+              "name": "University of British Columbia"
+            }
+          ]
+        },
+        {
+          "fullName": "Jennifer C. Whitman",
+          "firstName": "Jennifer",
+          "middleInitial": "C",
+          "lastName": "Whitman",
+          "affiliations": [
+            {
+              "name": "Northwestern University"
+            }
+          ]
+        },
+        {
+          "fullName": "Todd S. Woodward",
+          "firstName": "Todd",
+          "middleInitial": "S",
+          "lastName": "Woodward",
+          "affiliations": [
+            {
+              "name": "University of British Columbia"
+            }
+          ]
+        }
+      ],
+      "dates": [
+        {
+          "date": "2020-01-14 00:00:00",
+          "type": {
+            "value": "published"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "https://doi.org/10.1016/j.cortex.2019.12.014",
+        "identifierSource": "DOI"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "value": "verbal working memory"
+    },
+    {
+      "value": "working memory"
+    },
+    {
+      "value": "sternberg"
+    },
+    {
+      "value": "load"
+    },
+    {
+      "value": "fmri"
+    },
+    {
+      "value": "eeg"
+    },
+    {
+      "value": "delay"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "77"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "University of British Columbia"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Vancouver"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "British Columbia"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "logo.bmp"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Katie M Lavigne, katie.lavigne@mcgill.ca"
+        }
+      ]
+    },
+    {
+      "category": "experimentFunctionAssessed",
+      "values": [
+        {
+          "value": {
+            "value": "Cognitive"
+          }
+        }
+      ]
+    },
+    {
+      "category": "experimentLanguages",
+      "values": [
+        {
+          "value": "English"
+        }
+      ]
+    },
+    {
+      "category": "experimentAccessibility",
+      "values": [
+        {
+          "value": "Colour-blindness"
+        },
+        {
+          "value": "Hearing impairment"
+        }
+      ]
+    },
+    {
+      "category": "experimentModalities",
+      "values": [
+        {
+          "value": {
+            "value": "fMRI"
+          }
+        },
+        {
+          "value": {
+            "value": "EEG"
+          }
+        }
+      ]
+    },
+    {
+      "category": "experimentRequiredDevices",
+      "values": [
+        {
+          "value": "Computer"
+        }
+      ]
+    },
+    {
+      "category": "experimentStimuli",
+      "values": [
+        {
+          "value": "Image"
+        }
+      ]
+    },
+    {
+      "category": "experimentAdditionalRequirements",
+      "values": [
+        {
+          "value": "2-button response box or mouse/keyboard required"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that these data are not derived from human participants."
+        }
+      ]
+    }
+  ]
+}
