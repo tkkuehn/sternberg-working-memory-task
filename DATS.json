@@ -282,9 +282,7 @@
       "category": "experimentFunctionAssessed",
       "values": [
         {
-          "value": {
-            "value": "Cognitive"
-          }
+          "value": "Cognitive"
         }
       ]
     },
@@ -311,14 +309,10 @@
       "category": "experimentModalities",
       "values": [
         {
-          "value": {
-            "value": "fMRI"
-          }
+          "value": "fMRI"
         },
         {
-          "value": {
-            "value": "EEG"
-          }
+          "value": "EEG"
         }
       ]
     },
